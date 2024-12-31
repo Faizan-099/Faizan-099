@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
 <h3 align="center">A passionate Software Engineer developer from Pakistan.</h3>
-
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
 <p align="left"> <a href="https://twitter.com/@faizanmuh728804" target="blank"><img src="https://img.shields.io/twitter/follow/@faizanmuh728804?logo=twitter&style=for-the-badge" alt="@faizanmuh728804" /></a> </p>
 
 - 🌱 I’m currently learning **Web-Development courses.**
