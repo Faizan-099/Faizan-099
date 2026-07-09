@@ -1,30 +1,78 @@
-<h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
-<h3 align="center">A Full-Stack Developer from Pakistan.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"
-<p align="left"> <a href="https://twitter.com/@faizanmuh728804" target="blank"><img src="https://img.shields.io/twitter/follow/@faizanmuh728804?logo=twitter&style=for-the-badge" alt="@faizanmuh728804" /></a> </p>
+<div align="center">
 
--    Full Stack Developer, **Intern at AppsGenii.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:8E2DE2&height=200&section=header&text=Muhammad%20Faizan&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-- 🌱 I’m currently learning **Web-Development courses.**
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="380" />
 
-- 📫 How to reach me **mfaizan2226901@gmail.com**
+# Hi 👋, I'm Muhammad Faizan
 
-- ⚡ Fun fact **I am funny.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Full-Stack+Developer+%F0%9F%87%B5%F0%9F%87%B0;Intern+at+AppsGenii;Always+Learning+New+Things" alt="Typing SVG" />
 
-<h3 align="left">Connect with me:</h3>
+<br/>
+
+<a href="https://twitter.com/faizanmuh728804" target="_blank">
+  <img src="https://img.shields.io/twitter/follow/faizanmuh728804?logo=twitter&style=for-the-badge&color=1DA1F2&label=Follow" alt="Follow @faizanmuh728804 on Twitter" />
+</a>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+- 💼 Full Stack Developer — **Intern at AppsGenii**
+- 🌱 Currently learning **Web Development**
+- 📫 Reach me at **mfaizan2226901@gmail.com**
+- ⚡ Fun fact: **I am funny**
+
+---
+
+### 🔗 Connect with Me
+
 <p align="left">
-<a href="https://twitter.com/@faizanmuh728804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@faizanmuh728804" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mfaizan099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mfaizan099" height="30" width="40" /></a>
-<a href="https://instagram.com/its_faizan049" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_faizan049" height="30" width="40" /></a>
+<a href="https://twitter.com/@faizanmuh728804" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="35" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mfaizan099" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="40" />
+</a>
+&nbsp;&nbsp;
+<a href="https://instagram.com/its_faizan049" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="35" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=faizan-099&show_icons=true&locale=en&layout=compact" alt="faizan-099" /></p>
+### 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=faizan-099&show_icons=true&locale=en" alt="faizan-099" /></p>
+<p align="left">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faizan-099&" alt="faizan-099" /></p>
+---
 
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=Faizan8976&show_icons=true&locale=en&theme=radical" alt="Faizan8976 stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Faizan8976&show_icons=true&locale=en&layout=compact&theme=radical" alt="Faizan8976 top langs" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Faizan8976&theme=radical" alt="Faizan8976 streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Faizan8976&color=blueviolet&style=flat" alt="profile views" />
+</p>
